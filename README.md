@@ -14,8 +14,6 @@ https://gatsby-contentful-portfolio.netlify.com/
 ## Who is this for?
 
 - Graphic designers
-- Photographers
-- Illustrators
 - DevOps
 
 ## Features
