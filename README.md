@@ -16,7 +16,7 @@ https://gatsby-contentful-portfolio.netlify.com/
 - Graphic designers
 - Photographers
 - Illustrators
-- Other creatives
+- DevOps
 
 ## Features
 
